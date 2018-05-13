@@ -305,39 +305,133 @@
   "twilightforest.entity.passive.EntityTFTinyBird": [
     "fly|true"
   ],
-  "hmag.entity.EntityZombieGirl": [
+  "hmag.entity.EntityCaveFisher": [
+    "hostile"
+  ],
+  "hmag.entity.EntityCrawler": [
+    "hostile"
+  ],
+  "hmag.entity.EntityCreeperGirl": [
+    "hostile"
+  ],
+  "hmag.entity.EntityCursedDoll": [
+    "hostile",
+    "float|-0.914,true",
+    "step|1F"
+  ],
+  "hmag.entity.EntityDarkMage": [
+    "hostile"
+  ],
+  "hmag.entity.EntityDepthCrab": [
+    "hostile",
+    "swim|true,1F,1F,false"
+  ],
+  "hmag.entity.EntityDepthHunter": [
+    "hostile"
+  ],
+  "hmag.entity.EntityDepthWitch": [
+    "hostile"
+  ],
+  "hmag.entity.EntityDogu": [
+    "hostile"
+  ],
+  "hmag.entity.EntityDullahan": [
+    "hostile"
+  ],
+  "hmag.entity.EntityEnderExecutor": [
+    "hostile",
+    "waterAllergy"
+  ],
+  "hmag.entityEntityEnderpod": [
+    "hostile",
+    "float|-0.914,true",
+    "step|2F",
+    "waterAllergy"
+  ],
+  "hmag.entity.EntityFly"[
+    "hostile"
+  ],
+  "hmag.entity.EntityGazer": [
+    "hostile",
+    "fly|false"
+  ],
+  "hmag.entity.EntityGhastlySeeker": [
+    "fly|false",
+    "fireImmunity",
+    "hostile",
+    "sink"
+  ],
+  "hmag.entity.EntityGhost": [
+    "hostile",
+    "sunburn"
+  ],
+  "hmag.entity.EntityGremlin": [
+    "hostile"
+  ],
+  "hmag.entity.EntityHornet": [
+    "hostile",
+    "float|-0.914,true",
+    "step|3F"
+  ],
+  "hmag.entity.EntityInfluenceCreeper": [
+    "hostile"
+  ],
+  "hmag.entity.EntityJackFrost": [
+    "hostile"
+  ],
+  "hmag.entity.EntityJuvenileBlaze": [
+    "fly|false",
+    "fireImmunity",
+    "waterAllergy",
+    "hostile"
+  ],
+  "hmag.entity.EntityKasya": [
+    "hostile",
+    "fireImmunity",
+    "waterAllergy",
+    "step|2F"
+  ],
+  "hmag.entity.EntityKobold": [
+    "hostile"
+  ],
+  "hmag.entity.EntityLich": [
+    "hostile"
+  ],
+  "hmag.entity.EntityMatango": [
+    "hostile"
+  ],
+  "hmag.entity.EntityMummy": [
     "hostile",
 	"fear|9,0.6D,net.minecraft.entity.passive.EntityVillager",
     "sunburn"
   ],
+  "hmag.entity.EntityOgre": [
+    "hostile"
+  ],
+  "hmag.entity.EntityRedcap": [
+    "hostile"
+  ],
   "hmag.entity.EntitySkeletonGirl": [
     "hostile",
-    "sunburn",
+    "sunburn"
   ],
-  "hmag.entity.EntityGhost": [
+  "hmag.entity.EntitySwordia": [
     "hostile",
-    "sunburn",
+    "fly|true"
   ],
-  "hmag.entity.EntityCaveFisher": [
+  "hmag.entity.EntityTwinheadZombie": [
     "hostile",
+	"fear|9,0.6D,net.minecraft.entity.passive.EntityVillager",
+    "sunburn"
   ],
-  "hmag.entity.EntityCrawler": [
+  "hmag.entity.EntityWindMage": [
     "hostile",
+    "float|-0.914,true"
   ],
-  "hmag.entity.EntityCreeperGirl": [
+  "hmag.entity.EntityZombieGirl": [
     "hostile",
-  ],
-  "hmag.entity.EntityCursedDoll": [
-    "hostile",
-    "float|-0.114,true",
-    "step|1F",
-  ],
-  "hmag.entity.EntityDarkMage": [
-    "hostile",
-  ],
-  "hmag.entity.EntityDepthCrab": [
-    "hostile",
-    "swim|true,1F,1F,false",
+	"fear|9,0.6D,net.minecraft.entity.passive.EntityVillager",
+    "sunburn"
   ],
   
 	
